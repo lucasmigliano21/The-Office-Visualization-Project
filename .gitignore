@@ -18,3 +18,5 @@ contraseñas.txt
 *.h5
 *.parquet
 **/*.crx
+**/*.twb
+**/*.twbx
