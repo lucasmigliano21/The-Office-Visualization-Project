@@ -2,16 +2,20 @@
 
 # The Office
 
-### The objective of this analysis is to understand if the decision of each yearly award was influenced by the results of the players in their clubs or in their national teams.
+### The objective is to offer some insights of the series to the fans!
 
-In order to be able to compare data, we will be considering that the best national team every year is the one with more wins per year. On the other hand, we will consider that a success from the players in their clubs is winning the champions league in that year. That been said, we'll proceed to explain the data and sources:
+For example, who was the character with more appearances? Which season, in average, was the most seen? And most rated? This and another questions are being answered in the following [link](https://public.tableau.com/app/profile/lucas.german.migliano/viz/Libro1_16507074217200/Central?publish=yes).
 
-1. 
+In relation to the information, the datasets were taken from Kaggle:
+1. [The Office Episodes dataset](https://www.kaggle.com/datasets/bcruise/the-office-episodes-data)
+2. [The Office (US) - Complete Dialogue/Transcript](https://www.kaggle.com/datasets/nasirkhalid24/the-office-us-complete-dialoguetranscript)
+
 
 Once the data was treated, cleaned, enriched, transformed and became useful, we exported the files as .csv and worked on them in SQL.
-You can find the queries in the following [link](https://github.com/lucasmigliano21/LM-Project3-ETL/tree/master/data#:~:text=women%20football%20analisis.sql). The analysis proves that more players were awarded when their national team had most won matches that year.
+You can find the queries in the following [link](https://github.com/lucasmigliano21/The-Office-Visualization-Project/blob/master/Data/Clean/office%20sql.sql).
 
 ## Resources used in this project:
 
 #### Python - pandas
 #### MySQL
+#### Tableau
