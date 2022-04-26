@@ -4,7 +4,7 @@
 
 ### The objective is to offer some insights of the series to the fans!
 
-For example, who was the character with more appearances? Which season, in average, was the most seen? And most rated? This and another questions are being answered in the following [link](https://public.tableau.com/app/profile/lucas.german.migliano/viz/Libro1_16507074217200/Historia1s).
+For example, who was the character with more appearances? Which season, in average, was the most seen? And most rated? This and another questions are being answered in the following [link](https://public.tableau.com/app/profile/lucas.german.migliano/viz/Libro1_16507074217200/Historia1).
 
 In relation to the information, the datasets were taken from Kaggle:
 1. [The Office Episodes dataset](https://www.kaggle.com/datasets/bcruise/the-office-episodes-data)
